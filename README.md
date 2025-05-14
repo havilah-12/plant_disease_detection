@@ -4,17 +4,17 @@
 This project is a deep learning-based plant disease classification system. It uses Convolutional Neural Networks (CNNs) to identify diseases in plant leaves from images and delivers predictions via a user-friendly Streamlit interface. The app is fully containerized with Docker for seamless deployment.
 
 ## 🌱 Features
-- Predicts plant diseases from leaf images
+🌿 Predicts plant diseases from leaf images
 
-- Trained on a labeled dataset (e.g., PlantVillage)
+📊 Trained on a labeled dataset (e.g., PlantVillage)
 
-- Real-time image upload and prediction in Streamlit
+📷 Real-time image upload and prediction in Streamlit
 
-- CNN-based model trained using TensorFlow/Keras
+🧠 CNN-based model trained using TensorFlow/Keras
 
-- Fully dockerized for portability and deployment
+🐳 Fully dockerized for portability and deployment
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 - Python
 
 - TensorFlow/Keras – model training
@@ -26,23 +26,23 @@ This project is a deep learning-based plant disease classification system. It us
 - Docker – containerization and deployment
 
 🧩 Key Components
-Data Preprocessing:
+###  Data Preprocessing:
 
-Resizing images (e.g., 100x100 pixels)
+- Resizing images (e.g., 100x100 pixels)
 
-Label encoding and normalization
+- Label encoding and normalization
 
-CNN Model Architecture:
+- CNN Model Architecture:
 
-Convolutional + MaxPooling layers
+- Convolutional + MaxPooling layers
 
-Dense + Dropout layers
+- Dense + Dropout layers
 
-Softmax activation for multi-class output
+- Softmax activation for multi-class output
 
-Model Evaluation:
+### Model Evaluation:
 
-Accuracy, loss, precision/recall plots
+- Accuracy, loss, precision/recall plots
 
 ##✅ Skills Demonstrated
 - Deep Learning with CNNs
