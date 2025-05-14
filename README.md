@@ -25,7 +25,7 @@ This project is a deep learning-based plant disease classification system. It us
 
 - Docker – containerization and deployment
 
-🧩 Key Components
+## 🧩 Key Components
 ###  Data Preprocessing:
 
 - Resizing images (e.g., 100x100 pixels)
@@ -44,7 +44,7 @@ This project is a deep learning-based plant disease classification system. It us
 
 - Accuracy, loss, precision/recall plots
 
-##✅ Skills Demonstrated
+## ✅ Skills Demonstrated
 - Deep Learning with CNNs
 
 - Image preprocessing and classification
